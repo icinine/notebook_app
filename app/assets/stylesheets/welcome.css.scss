@@ -1,6 +1,3 @@
-// Place all the styles related to the Welcome controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
 #banner {
 	background-image: url(image_path("branding-section2.jpg"));
 	background-size: cover;
@@ -44,7 +41,7 @@
 }
 
 #callouts {
-	background-image: url(image_path("callout_background.jpg"));
+	background-image: url(image_path("interior-design-midway2.jpg"));
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
